@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/882d187c-82df-4f1f-9798-b506ce012e14)![image](https://github.com/user-attachments/assets/95418492-02a3-4312-a801-7ae1f1fabb1e)AimBot by fail4k - аим бот созданный на языке программирования python.
+AimBot by fail4k - аим бот созданный на языке программирования python.
 Данный АимБот можно использовать во многих играх, где отключена функция Raw Mouse Input(желательно в 2д играх)
 Использует принцип наведение на цвет который видит на экране.
 В программе имеется:
