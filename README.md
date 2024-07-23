@@ -14,3 +14,6 @@ AimBot by fail4k - аим бот созданный на языке програ
 ![image](https://github.com/user-attachments/assets/9c0908ee-b15b-437c-936c-7bf59d6c869a)
 ![image](https://github.com/user-attachments/assets/2428e2d3-d180-4bd4-8ac1-382ea1851e44)
 ![image](https://github.com/user-attachments/assets/dded6575-2758-4715-975d-f14835244892)
+
+
+поддержать автора > https://www.donationalerts.com/r/fail4k228
